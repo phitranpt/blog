@@ -9,7 +9,9 @@ class PostList extends React.Component {
 
   render() {
     return (
-      <div>PostList</div>
+      <div>
+        <div>PostList</div>
+      </div>
     )
   }
 }
